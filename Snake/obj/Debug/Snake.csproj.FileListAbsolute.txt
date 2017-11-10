@@ -5,3 +5,10 @@ C:\C# lesson\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.ca
 C:\C# lesson\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\C# lesson\Snake\Snake\Snake\obj\Debug\Snake.exe
 C:\C# lesson\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\C# lesson\Snake\snake-C-.git\Snake\bin\Debug\Snake.exe.config
+C:\C# lesson\Snake\snake-C-.git\Snake\bin\Debug\Snake.exe
+C:\C# lesson\Snake\snake-C-.git\Snake\bin\Debug\Snake.pdb
+C:\C# lesson\Snake\snake-C-.git\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\C# lesson\Snake\snake-C-.git\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\C# lesson\Snake\snake-C-.git\Snake\obj\Debug\Snake.exe
+C:\C# lesson\Snake\snake-C-.git\Snake\obj\Debug\Snake.pdb
